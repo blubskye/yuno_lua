@@ -1,18 +1,26 @@
+<div align="center">
+
 # Yuno Gasai Discord Bot - Lua Edition
 
-<div align="center">
-  <img src="https://i.imgur.com/YunoGasai.png" alt="Yuno Gasai" width="200"/>
+### *"I'll protect this server forever... just for you~"*
 
-  *"I'll protect this server forever... just for you~"*
+<img src="https://i.imgur.com/jF8Szfr.png" alt="Yuno Gasai" width="300"/>
 
-  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-  [![Lua](https://img.shields.io/badge/Lua-5.1+-blue.svg)](https://www.lua.org/)
-  [![Discord](https://img.shields.io/badge/Discord-Discordia-7289DA.svg)](https://github.com/SinisterRectus/Discordia)
-</div>
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-pink.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Lua](https://img.shields.io/badge/Lua-5.1+-ff69b4.svg)](https://www.lua.org/)
+[![Discordia](https://img.shields.io/badge/Discordia-2.x-ff1493.svg)](https://github.com/SinisterRectus/Discordia)
+
+*A devoted Discord bot for moderation, leveling, and anime~*
 
 ---
 
-A feature-rich Discord bot written in Lua using the Discordia library. This is the Lua port of the original JavaScript Yuno Gasai bot.
+</div>
+
+## About
+
+Yuno is a **yandere-themed Discord bot** combining powerful moderation tools with a leveling system and anime features. She'll keep your server safe from troublemakers... *because no one else is allowed near you~*
+
+This is the **Lua port** of the original JavaScript Yuno bot, using the Discordia library.
 
 ## Features
 
